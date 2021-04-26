@@ -1,0 +1,358 @@
+nom,nombre_chambres,etoiles,note,nombre_avis,lien,iso,ecologique,green_leader,longitude,latitude,ville,pays,continent
+Anantara Sahara Tozeur Resort & Villas,93,5,4.5,149,https://www.nh-hotels.fr/hotel/anantara-sahara-tozeur-resort-and-villas,non,non,non,8.079288,33.896404,Tozeur,Tunisie,Afrique
+NH Bariloche Edelweiss,95,4,4.0,1158,https://www.nh-hotels.fr/hotel/nh-bariloche-edelweiss,non,oui,non,-71.31515,-41.1343067,Bariloche,Argentine,Amérique
+NH Buenos Aires 9 de Julio,175,4,4.5,1834,https://www.nh-hotels.fr/hotel/nh-buenos-aires-9-de-julio,non,oui,oui,-58.381938,-34.606553,Buenos Aires,Argentine,Amérique
+NH Buenos Aires City,302,5,4.0,2177,https://www.nh-hotels.fr/hotel/nh-buenos-aires-city,non,non,non,-58.3755967,-34.609775,Buenos Aires,Argentine,Amérique
+NH Buenos Aires Florida,162,4,4.0,673,https://www.nh-hotels.fr/hotel/nh-buenos-aires-florida,non,non,non,-58.374098,-34.598123,Buenos Aires,Argentine,Amérique
+NH Buenos Aires Latino,100,4,4.5,1302,https://www.nh-hotels.fr/hotel/nh-buenos-aires-latino,non,non,non,-58.379296,-34.604658,Buenos Aires,Argentine,Amérique
+NH Buenos Aires Tango,108,4,4.0,1124,https://www.nh-hotels.fr/hotel/nh-buenos-aires-tango,non,oui,oui,-58.382399,-34.601616,Buenos Aires,Argentine,Amérique
+NH Collection Buenos Aires Centro Histórico,67,5,4.5,255,https://www.nh-hotels.fr/hotel/nh-collection-buenos-aires-centro-historico,non,non,non,-58.3752285,-34.6086754,Buenos Aires,Argentine,Amérique
+NH Collection Buenos Aires Crillon,96,4,4.0,1489,https://www.nh-hotels.fr/hotel/nh-collection-buenos-aires-crillon,non,non,non,-58.378352,-34.595145,Buenos Aires,Argentine,Amérique
+NH Collection Buenos Aires Jousten,84,4,4.5,1172,https://www.nh-hotels.fr/hotel/nh-collection-buenos-aires-jousten,non,oui,non,-58.370866,-34.603003,Buenos Aires,Argentine,Amérique
+NH Collection Buenos Aires Lancaster,115,4,4.5,1224,https://www.nh-hotels.fr/hotel/nh-collection-buenos-aires-lancaster,non,oui,oui,-58.372963,-34.598391,Buenos Aires,Argentine,Amérique
+NH Córdoba Panorama,138,4,4.0,1068,https://www.nh-hotels.fr/hotel/nh-cordoba-panorama,non,oui,non,-64.190658,-31.416651,Cordoba,Argentine,Amérique
+NH Córdoba Urbano,72,3,4.0,947,https://www.nh-hotels.fr/hotel/nh-cordoba-urbano,non,non,non,-64.189886,-31.419068,Cordoba,Argentine,Amérique
+NH Gran Hotel Provincial,460,5,4.0,1483,https://www.nh-hotels.fr/hotel/nh-gran-hotel-provincial,non,non,non,-57.540518,-38.007001,Mar del Plata,Argentine,Amérique
+NH Hotel Casino,65,4,3.5,85,https://www.nh-hotels.fr/hotel/nh-hotel-casino,non,non,non,-57.540518,-38.007001,Mar del Plata,Argentine,Amérique
+NH Mendoza Cordillera,105,4,4.0,1322,https://www.nh-hotels.fr/hotel/nh-mendoza-cordillera,non,non,non,-68.841257,-32.887683,Mendoza,Argentine,Amérique
+NH Curitiba The Five,180,4,,,https://www.nh-hotels.fr/hotel/nh-curitiba-the-five,non,non,non,-49.275939,-25.437728,Curitiba,Brésil,Amérique
+NH Antofagasta,139,,4.0,516,https://www.nh-hotels.fr/hotel/nh-antofagasta,non,non,non,-70.414114,-23.681821,Antofagasta,Chili,Amérique
+NH Iquique,78,4,4.0,445,https://www.nh-hotels.fr/hotel/nh-iquique,non,non,non,-70.129637,-20.267913,Iquique,Chili,Amérique
+NH Ciudad de Santiago,122,4,4.0,1733,https://www.nh-hotels.fr/hotel/nh-ciudad-de-santiago,non,non,non,-70.628274,-33.435495,Santiago,Chili,Amérique
+NH Collection Plaza Santiago,159,5,4.5,2234,https://www.nh-hotels.fr/hotel/nh-collection-plaza-santiago,non,non,non,-70.60485,-33.416844,Santiago,Chili,Amérique
+NH Collection Santiago Casacostanera,85,4,4.5,35,https://www.nh-hotels.fr/hotel/nh-collection-santiago-casacostanera,non,non,non,-70.598065,-33.398261,Santiago,Chili,Amérique
+NH Collection Barranquilla Smartsuites Royal,118,,4.5,441,https://www.nh-hotels.fr/hotel/nh-collection-barranquilla-smartsuites-royal,non,non,non,-74.8124016,11.003705,Barranquilla,Colombie,Amérique
+NH Bogotá Boheme Royal,66,,4.5,624,https://www.nh-hotels.fr/hotel/nh-bogota-boheme-royal,non,oui,oui,-74.054417,4.666673,Bogotá,Colombie,Amérique
+NH Bogotá Pavillon Royal,72,,4.5,382,https://www.nh-hotels.fr/hotel/nh-bogota-pavillon-royal,non,non,non,-74.046860,4.677247,Bogotá,Colombie,Amérique
+NH Bogotá Urban 26 Royal,118,,4.5,363,https://www.nh-hotels.fr/hotel/nh-bogota-urban-26-royal,non,non,non,-74.083242,4.629446,Bogotá,Colombie,Amérique
+NH Bogotá Urban 93 Royal,54,,4.0,280,https://www.nh-hotels.fr/hotel/nh-bogota-urban-93-royal,non,non,non,-74.053633,4.680084,Bogotá,Colombie,Amérique
+NH Collection Bogotá Andino Royal,,,4.5,652,https://www.nh-hotels.fr/hotel/nh-collection-bogota-andino-royal,non,oui,non,-74.051978,4.667971,Bogotá,Colombie,Amérique
+NH Collection Bogotá Hacienda Royal,82,,4.5,695,https://www.nh-hotels.fr/hotel/nh-collection-bogota-hacienda-royal,non,oui,non,-74.031895,4.692370,Bogotá,Colombie,Amérique
+NH Collection Bogotá Teleport Royal,251,,4.5,1266,https://www.nh-hotels.fr/hotel/nh-collection-bogota-teleport-royal,non,oui,non,-74.035527,4.691760,Bogotá,Colombie,Amérique
+NH Collection Bogotá Terra 100 Royal,73,,4.5,286,https://www.nh-hotels.fr/hotel/nh-collection-bogota-terra-100-royal,non,oui,oui,-74.052665,4.686206,Bogotá,Colombie,Amérique
+NH Collection Bogotá WTC Royal,144,,4.5,744,https://www.nh-hotels.fr/hotel/nh-collection-bogota-wtc-royal,non,oui,non,-74.040397,4.68055,Bogotá,Colombie,Amérique
+NH Cali Royal,145,,4.0,562,https://www.nh-hotels.fr/hotel/nh-cali-royal,non,non,non,-76.539087,3.371202,Cali,Colombie,Amérique
+NH Cartagena Urban Royal,28,,,,https://www.nh-hotels.fr/hotel/nh-cartagena-urban-royal,non,non,non,-75.5492767,10.4233987,Carthagène des Indes,Colombie,Amérique
+NH Collection Medellín Royal,,,4.5,1144,https://www.nh-hotels.fr/hotel/nh-collection-medellin-royal,non,non,non,-75.572846,6.197019,Medellín,Colombie,Amérique
+NH Capri La Habana,220,4,4.0,2817,https://www.nh-hotels.fr/hotel/nh-capri-la-habana,non,non,non,-82.382596,23.14217,La Havane,Cuba,Amérique
+NH Collection Victoria La Habana,31,4,4.5,409,https://www.nh-hotels.fr/hotel/nh-collection-victoria-la-habana,non,non,non,-82.3991973,23.1344077,La Havane,Cuba,Amérique
+NH Collection Quito Royal,124,5,4.5,1050,https://www.nh-hotels.fr/hotel/nh-collection-quito-royal,non,non,non,-78.484547,-0.205652,Quito,Équateur,Amérique
+NH Collection New York Madison Avenue,288,4,,,https://www.nh-hotels.fr/hotel/nh-collection-new-york-madison-avenue,non,non,non,-73.980655,40.750087,New York,États-Unis,Amérique
+NH Haiti El Rancho,72,4,4.5,790,https://www.nh-hotels.fr/hotel/nh-haiti-el-rancho,non,non,non,-72.291328,18.521009,Port au Prince,Haïti,Amérique
+NH Cancún Airport,140,4,,,https://www.nh-hotels.fr/hotel/nh-cancun-airport,non,non,non,-86.862754,20.989514,Cancún,Mexique,Amérique
+NH Coatzacoalcos,104,3,4.0,240,https://www.nh-hotels.fr/hotel/nh-coatzacoalcos,non,non,non,-94.47215556,18.14332222,Coatzacoalcos,Mexique,Amérique
+NH Collection Guadalajara Providencia,137,5,4.5,931,https://www.nh-hotels.fr/hotel/nh-collection-guadalajara-providencia,oui,oui,non,-103.377759,20.700895,Guadalajara,Mexique,Amérique
+NH Collection León Expo,141,4,4.5,195,https://www.nh-hotels.fr/hotel/nh-collection-leon-expo,non,non,non,-101.652479,21.114840,León,Mexique,Amérique
+NH Collection Mérida Paseo Montejo,120,4,4.0,98,https://www.nh-hotels.fr/hotel/nh-collection-merida-paseo-montejo,non,non,non,-89.6223045,20.983479,Mérida,Mexique,Amérique
+NH Collection Mexico City Airport T2,287,4,4.0,2050,https://www.nh-hotels.fr/hotel/nh-collection-mexico-city-airport-t2,non,non,non,-99.078312,19.43171,Mexico,Mexique,Amérique
+NH Collection Mexico City Centro Histórico,105,4,4.0,1230,https://www.nh-hotels.fr/hotel/nh-collection-mexico-city-centro-historico,non,oui,non,-99.135425,19.43156667,Mexico,Mexique,Amérique
+NH Collection Mexico City Reforma,306,4,4.0,1093,https://www.nh-hotels.fr/hotel/nh-collection-mexico-city-reforma,non,non,non,-99.16538333,19.42417778,Mexico,Mexique,Amérique
+NH Collection Mexico City Santa Fe,135,4,4.5,596,https://www.nh-hotels.fr/hotel/nh-collection-mexico-city-santa-fe,non,non,non,-99.2784957,19.3594423,Mexico,Mexique,Amérique
+NH Mexico City Valle Dorado,130,4,4.0,598,https://www.nh-hotels.fr/hotel/nh-mexico-city-valle-dorado,non,non,non,-99.210032,19.547336,Mexico,Mexique,Amérique
+NH Collection Monterrey San Pedro,217,4,4.0,979,https://www.nh-hotels.fr/hotel/nh-collection-monterrey-san-pedro,non,non,non,-100.359248,25.650579,Monterrey,Mexique,Amérique
+NH Monterrey La Fe,152,4,,,https://www.nh-hotels.fr/hotel/nh-monterrey-la-fe,non,non,non,-100.2175661,25.721181,Monterrey,Mexique,Amérique
+NH Puebla Centro Histórico,180,4,4.0,1427,https://www.nh-hotels.fr/hotel/nh-puebla-centro-historico,non,non,non,-98.202226,19.045395,Puebla,Mexique,Amérique
+NH Puebla Finsa,138,4,4.5,136,https://www.nh-hotels.fr/hotel/nh-puebla-finsa,non,non,non,-98.235836,19.099974,Puebla,Mexique,Amérique
+NH Queretaro,140,4,3.5,379,https://www.nh-hotels.fr/hotel/nh-queretaro,non,non,non,-100.41859,20.606875,Queretaro,Mexique,Amérique
+NH San Luis Potosí,111,4,4.0,190,https://www.nh-hotels.fr/hotel/nh-san-luis-potosi,non,non,non,-100.996079,22.150406,San Luis Potosí,Mexique,Amérique
+NH Montevideo Columbia,136,4,4.0,1704,https://www.nh-hotels.fr/hotel/nh-montevideo-columbia,non,non,non,-56.202557,-34.90976,Montevideo,Uruguay,Amérique
+NH Berlin Alexanderplatz,225,4,4.0,300,https://www.nh-hotels.fr/hotel/nh-berlin-alexanderplatz,non,oui,oui,13.4386952,52.5236792,Berlin,Allemagne,Europe
+NH Berlin City Ost,99,4,4.0,545,https://www.nh-hotels.fr/hotel/nh-berlin-city-ost,non,non,non,13.482000,52.513547,Berlin,Allemagne,Europe
+NH Berlin Kurfürstendamm,167,4,4.0,1454,https://www.nh-hotels.fr/hotel/nh-berlin-kurfuerstendamm,oui,oui,oui,13.324160,52.504023,Berlin,Allemagne,Europe
+NH Berlin Potsdamer Platz,89,4,4.0,869,https://www.nh-hotels.fr/hotel/nh-berlin-potsdamer-platz,non,oui,oui,13.385596,52.501622,Berlin,Allemagne,Europe
+NH Collection Berlin Mitte Friedrichstrasse,268,4,4.5,2271,https://www.nh-hotels.fr/hotel/nh-collection-berlin-mitte-friedrichstrasse,oui,oui,oui,13.388730,52.519629,Berlin,Allemagne,Europe
+NH Collection Berlin Mitte am Checkpoint Charlie,392,4,4.0,3211,https://www.nh-hotels.fr/hotel/nh-collection-berlin-mitte-checkpoint-charlie,oui,oui,oui,13.388186,52.510612,Berlin,Allemagne,Europe
+nhow Berlin,304,4,4.5,4147,https://www.nh-hotels.fr/hotel/nhow-berlin,oui,oui,oui,13.44964,52.50138,Berlin,Allemagne,Europe
+NH Bingen,135,,3.5,744,https://www.nh-hotels.fr/hotel/nh-bingen,non,oui,oui,7.890970,49.969303,Bingen am Rhein,Allemagne,Europe
+NH Collection Köln Mediapark,217,4,4.5,775,https://www.nh-hotels.fr/hotel/nh-collection-koeln-mediapark,oui,oui,oui,6.944072,50.948684,Cologne,Allemagne,Europe
+NH Köln Altstadt,204,4,4.0,1603,https://www.nh-hotels.fr/hotel/nh-koeln-altstadt,oui,oui,oui,6.962362,50.930726,Cologne,Allemagne,Europe
+NH Dortmund,190,4,4.5,333,https://www.nh-hotels.fr/hotel/nh-dortmund,non,oui,oui,7.462844,51.517759,Dortmund,Allemagne,Europe
+NH Collection Dresden Altmarkt,240,4,4.5,1988,https://www.nh-hotels.fr/hotel/nh-collection-dresden-altmarkt,oui,oui,oui,13.738270,51.048792,Dresde,Allemagne,Europe
+NH Dresden Neustadt,269,4,4.0,1110,https://www.nh-hotels.fr/hotel/nh-dresden-neustadt,oui,oui,oui,13.738624,51.074356,Dresde,Allemagne,Europe
+NH Düsseldorf City,338,4,4.0,1226,https://www.nh-hotels.fr/hotel/nh-duesseldorf-city,oui,oui,oui,6.802533,51.217682,Düsseldorf,Allemagne,Europe
+NH Düsseldorf City Nord,330,4,4.0,1150,https://www.nh-hotels.fr/hotel/nh-duesseldorf-city-nord,oui,oui,oui,6.7974582,51.2485697,Düsseldorf,Allemagne,Europe
+NH Düsseldorf Königsallee,111,4,4.0,744,https://www.nh-hotels.fr/hotel/nh-duesseldorf-koenigsallee,non,oui,oui,6.780969,51.218089,Düsseldorf,Allemagne,Europe
+NH Erlangen,138,4,4.0,499,https://www.nh-hotels.fr/hotel/nh-erlangen,non,oui,oui,11.007185,49.590170,Erlangen,Allemagne,Europe
+NH Essen,182,4,4.5,111,https://www.nh-hotels.fr/hotel/nh-essen,non,non,non,7.0121064,51.4567038,Essen,Allemagne,Europe
+NH Collection Frankfurt City,256,4,4.5,1549,https://www.nh-hotels.fr/hotel/nh-collection-frankfurt-city,oui,oui,oui,8.68725,50.11728,Francfort,Allemagne,Europe
+NH Frankfurt Airport,158,4,4.0,1832,https://www.nh-hotels.fr/hotel/nh-frankfurt-airport,non,oui,oui,8.54678,50.04948,Francfort,Allemagne,Europe
+NH Frankfurt Airport West,306,4,3.5,755,https://www.nh-hotels.fr/hotel/nh-frankfurt-airport-west,oui,oui,oui,8.46086,50.01521,Francfort,Allemagne,Europe
+NH Frankfurt Messe,65,4,4.5,911,https://www.nh-hotels.fr/hotel/nh-frankfurt-messe,non,oui,oui,8.656926,50.11213,Francfort,Allemagne,Europe
+NH Frankfurt Mörfelden Conference Center,299,4,3.5,1099,https://www.nh-hotels.fr/hotel/nh-frankfurt-moerfelden-conference-center,oui,oui,oui,8.585548,49.984548,Francfort,Allemagne,Europe
+NH Frankfurt Niederrad,165,4,4.0,1009,https://www.nh-hotels.fr/hotel/nh-frankfurt-niederrad,oui,oui,oui,8.62907,50.0848,Francfort,Allemagne,Europe
+NH Frankfurt Villa,24,3,4.5,303,https://www.nh-hotels.fr/hotel/nh-frankfurt-villa,non,non,non,8.64865,50.115416,Francfort,Allemagne,Europe
+NH Fürth Nürnberg,118,4,4.5,496,https://www.nh-hotels.fr/hotel/nh-fuerth-nuernberg,non,oui,oui,10.992802,49.472859,Fürth,Allemagne,Europe
+NH Collection Hamburg City,129,4,4.5,1255,https://www.nh-hotels.fr/hotel/nh-collection-hamburg-city,non,oui,oui,9.973899,53.556899,Hambourg,Allemagne,Europe
+NH Hamburg Altona,239,4,4.0,1270,https://www.nh-hotels.fr/hotel/nh-hamburg-altona,oui,oui,oui,9.921384,53.564194,Hambourg,Allemagne,Europe
+NH Hamburg Horner Rennbahn,172,4,4.0,1066,https://www.nh-hotels.fr/hotel/nh-hamburg-horner-rennbahn,non,oui,oui,10.07952,53.56243,Hambourg,Allemagne,Europe
+NH Hamburg Mitte,134,4,4.5,355,https://www.nh-hotels.fr/hotel/nh-hamburg-mitte,non,oui,oui,9.965789,53.569197,Hambourg,Allemagne,Europe
+NH Hannover,91,4,,,https://www.nh-hotels.fr/hotel/nh-hannover,non,non,non,9.727988,52.381301,Hanovre,Allemagne,Europe
+NH Heidelberg,174,4,4.0,1331,https://www.nh-hotels.fr/hotel/nh-heidelberg,oui,oui,oui,8.682798,49.407697,Heidelberg,Allemagne,Europe
+NH Hirschberg Heidelberg,114,4,3.5,372,https://www.nh-hotels.fr/hotel/nh-hirschberg-heidelberg,non,oui,oui,8.655381,49.494697,Hirschberg,Allemagne,Europe
+NH Ingolstadt,119,4,4.0,502,https://www.nh-hotels.fr/hotel/nh-ingolstadt,non,oui,oui,11.454904,48.772483,Ingolstadt,Allemagne,Europe
+NH Leipzig Messe,308,4,4.0,781,https://www.nh-hotels.fr/hotel/nh-leipzig-messe,oui,oui,oui,12.3902942,51.4025388,Leipzig,Allemagne,Europe
+NH Leipzig Zentrum,197,4,4.0,137,https://www.nh-hotels.fr/hotel/nh-leipzig-zentrum,non,non,non,12.3715906,51.3368366,Leipzig,Allemagne,Europe
+NH Ludwigsburg,130,3,4.0,581,https://www.nh-hotels.fr/hotel/nh-ludwigsburg,oui,oui,oui,9.183327,48.891135,Ludwigsbourg,Allemagne,Europe
+NH Magdeburg,142,4,4.0,593,https://www.nh-hotels.fr/hotel/nh-magdeburg,non,oui,oui,11.572970,52.179688,Magdeburg,Allemagne,Europe
+NH Mannheim,225,4,4.0,176,https://www.nh-hotels.fr/hotel/nh-mannheim,non,oui,oui,8.488902,49.476242,Mannheim,Allemagne,Europe
+NH Mannheim Viernheim,121,4,4.0,439,https://www.nh-hotels.fr/hotel/nh-mannheim-viernheim,non,non,non,8.568615,49.527019,Mannheim,Allemagne,Europe
+NH Collection München Bavaria,219,4,4.0,2142,https://www.nh-hotels.fr/hotel/nh-collection-muenchen-bavaria,non,oui,oui,11.560147,48.141604,Munich,Allemagne,Europe
+NH München Airport,236,4,3.5,1142,https://www.nh-hotels.fr/hotel/nh-muenchen-airport,oui,oui,oui,11.83071,48.35221,Munich,Allemagne,Europe
+NH München City Süd,163,3,3.5,932,https://www.nh-hotels.fr/hotel/nh-muenchen-city-sued,non,oui,oui,11.61799,48.11092,Munich,Allemagne,Europe
+NH München Messe,253,4,4.0,676,https://www.nh-hotels.fr/hotel/nh-muenchen-messe,oui,oui,oui,11.642916,48.139597,Munich,Allemagne,Europe
+NH München Ost Conference Center,222,4,4.0,673,https://www.nh-hotels.fr/hotel/nh-muenchen-ost-conference-center,oui,oui,oui,11.687700,48.146746,Munich,Allemagne,Europe
+NH München Unterhaching,80,4,4.0,688,https://www.nh-hotels.fr/hotel/nh-muenchen-unterhaching,non,oui,oui,11.61464,48.06623,Munich,Allemagne,Europe
+NH Klösterle Nördlingen,98,4,4.0,929,https://www.nh-hotels.fr/hotel/nh-kloesterle-noerdlingen,non,oui,oui,10.488329,48.852845,Nördlingen,Allemagne,Europe
+NH Collection Nürnberg City,244,4,4.0,1806,https://www.nh-hotels.fr/hotel/nh-collection-nuernberg-city,oui,oui,oui,11.087244,49.447677,Nuremberg,Allemagne,Europe
+NH Oberhausen,172,4,4.0,840,https://www.nh-hotels.fr/hotel/nh-oberhausen,non,non,non,6.85978,51.47289,Oberhausen,Allemagne,Europe
+NH Potsdam,143,4,4.0,1076,https://www.nh-hotels.fr/hotel/nh-potsdam,non,oui,oui,13.057531,52.402459,Potsdam,Allemagne,Europe
+NH Schwerin,144,4,4.0,495,https://www.nh-hotels.fr/hotel/nh-schwerin,non,oui,oui,11.394549,53.602414,Schwerin,Allemagne,Europe
+NH Stuttgart Airport,208,4,4.0,987,https://www.nh-hotels.fr/hotel/nh-stuttgart-airport,oui,oui,oui,9.223817,48.661487,Stuttgart,Allemagne,Europe
+NH Stuttgart Sindelfingen,103,4,3.5,386,https://www.nh-hotels.fr/hotel/nh-stuttgart-sindelfingen,non,oui,oui,8.997000,48.705548,Stuttgart,Allemagne,Europe
+NH Weinheim,187,4,4.0,610,https://www.nh-hotels.fr/hotel/nh-weinheim,non,oui,oui,8.64495,49.54377,Weinheim,Allemagne,Europe
+NH Wiesbaden,130,,3.0,523,https://www.nh-hotels.fr/hotel/nh-wiesbaden,non,oui,oui,8.267992,50.086741,Wiesbaden,Allemagne,Europe
+NH Andorra La Vella,60,4,4.5,1293,https://www.nh-hotels.fr/hotel/nh-andorra-la-vella,non,non,non,1.529226,42.509161,Andorra La Vella,Andorre,Europe
+NH Graz City,157,4,4.5,353,https://www.nh-hotels.fr/hotel/nh-graz-city,non,non,non,15.441678,47.073817,Graz,Autriche,Europe
+NH Salzburg City,140,4,4.0,2121,https://www.nh-hotels.fr/hotel/nh-salzburg-city,non,oui,oui,13.048936390431376,47.80532045380882,Salzbourg,Autriche,Europe
+NH Collection Wien Zentrum,73,4,4.5,1173,https://www.nh-hotels.fr/hotel/nh-collection-wien-zentrum,non,oui,oui,16.34857,48.19777,Vienne,Autriche,Europe
+NH Danube City,252,4,4.0,1336,https://www.nh-hotels.fr/hotel/nh-danube-city,oui,oui,oui,16.422348038480454,48.23531842810155,Vienne,Autriche,Europe
+NH Vienna Airport Conference Center,499,4,4.0,3053,https://www.nh-hotels.fr/hotel/nh-vienna-airport-conference-center,oui,oui,oui,16.562893,48.121717,Vienne,Autriche,Europe
+NH Wien Belvedere,114,4,4.0,1699,https://www.nh-hotels.fr/hotel/nh-wien-belvedere,non,oui,oui,16.383484,48.195623,Vienne,Autriche,Europe
+NH Wien City,105,4,4.0,1614,https://www.nh-hotels.fr/hotel/nh-wien-city,non,oui,oui,16.35463,48.19993,Vienne,Autriche,Europe
+NH Collection Antwerp Centre,186,4,4.5,177,https://www.nh-hotels.fr/hotel/nh-collection-antwerp-centre,non,non,non,4.420431,51.214506,Anvers,Belgique,Europe
+NH Brugge,149,4,4.0,2906,https://www.nh-hotels.fr/hotel/nh-brugge,non,oui,oui,3.216863,51.203894,Bruges,Belgique,Europe
+NH Brussels Airport,234,4,4.0,1166,https://www.nh-hotels.fr/hotel/nh-brussels-airport,non,oui,oui,4.448333,50.8875,Bruxelles,Belgique,Europe
+NH Brussels Carrefour Europe,65,4,4.0,1304,https://www.nh-hotels.fr/hotel/nh-brussels-carrefour-de-l-europe,non,oui,oui,4.35532,50.846384,Bruxelles,Belgique,Europe
+NH Brussels EU Berlaymont,214,4,3.5,1171,https://www.nh-hotels.fr/hotel/nh-brussels-eu-berlaymont,non,oui,non,4.382512,50.844769,Bruxelles,Belgique,Europe
+NH Brussels Grand Place Arenberg,155,4,4.0,2244,https://www.nh-hotels.fr/hotel/nh-brussels-grand-place-arenberg,non,oui,oui,4.35761,50.84853,Bruxelles,Belgique,Europe
+NH Brussels Louise,246,4,3.5,1706,https://www.nh-hotels.fr/hotel/nh-brussels-louise,non,oui,oui,4.35690125880979,50.8328632751195,Bruxelles,Belgique,Europe
+NH Brussels Stéphanie,67,4,4.0,1304,https://www.nh-hotels.fr/hotel/nh-brussels-stephanie,non,oui,oui,4.35523,50.83391,Bruxelles,Belgique,Europe
+NH Collection Brussels Centre,241,4,4.5,1759,https://www.nh-hotels.fr/hotel/nh-collection-brussels-centre,non,oui,oui,4.354121,50.852235,Bruxelles,Belgique,Europe
+NH Collection Brussels Grand Sablon,196,4,4.5,1167,https://www.nh-hotels.fr/hotel/nh-collection-brussels-grand-sablon,non,oui,oui,4.355902778,50.84094722,Bruxelles,Belgique,Europe
+nhow Brussels Bloom,305,4,4.0,4529,https://www.nh-hotels.fr/hotel/nhow-brussels-bloom,non,oui,non,4.366389,50.855278,Bruxelles,Belgique,Europe
+NH Gent Belfort,174,4,4.0,2810,https://www.nh-hotels.fr/hotel/nh-gent-belfort,non,oui,oui,3.725495,51.054749,Gand,Belgique,Europe
+NH Mechelen,43,3,4.0,506,https://www.nh-hotels.fr/hotel/nh-mechelen,non,oui,oui,4.4758,51.02439,Malines,Belgique,Europe
+NH Campo de Gibraltar,100,4,4.0,503,https://www.nh-hotels.fr/hotel/nh-campo-de-gibraltar,non,non,non,-5.434681,36.187005,Algeciras,Espagne,Europe
+NH Alicante,100,4,4.0,918,https://www.nh-hotels.fr/hotel/nh-alicante,non,non,non,-0.507218,38.336395,Alicante,Espagne,Europe
+NH Collection Palacio de Aranjuez,86,4,4.5,1323,https://www.nh-hotels.fr/hotel/nh-collection-palacio-de-aranjuez,oui,oui,non,-3.60862,40.033694,Aranjuez,Espagne,Europe
+NH Collection Palacio de Avilés,78,5,4.5,1624,https://www.nh-hotels.fr/hotel/nh-collection-palacio-de-aviles,non,non,non,-5.922534,43.555288,Aviles,Espagne,Europe
+NH Gran Hotel Casino Extremadura,58,5,4.5,1375,https://www.nh-hotels.fr/hotel/nh-gran-hotel-casino-extremadura,non,non,non,-6.983682,38.884030,Badajoz,Espagne,Europe
+NH Barcelona Diagonal Center,129,3,4.0,1025,https://www.nh-hotels.fr/hotel/nh-barcelona-diagonal-center,non,non,non,2.192077,41.397913,Barcelone,Espagne,Europe
+NH Barcelona Eixample,81,3,4.0,1199,https://www.nh-hotels.fr/hotel/nh-barcelona-eixample,non,oui,oui,2.15418808992571,41.3858237283997,Barcelone,Espagne,Europe
+NH Barcelona Entenza,48,3,4.0,476,https://www.nh-hotels.fr/hotel/nh-barcelona-entenza,non,non,non,2.140505,41.385664,Barcelone,Espagne,Europe
+NH Barcelona Les Corts,81,3,4.0,872,https://www.nh-hotels.fr/hotel/nh-barcelona-les-corts,non,non,non,2.13634,41.38757,Barcelone,Espagne,Europe
+NH Barcelona Stadium,106,4,4.0,910,https://www.nh-hotels.fr/hotel/nh-barcelona-stadium,non,oui,oui,2.126993,41.381401,Barcelone,Espagne,Europe
+NH Collection Barcelona Constanza,308,4,4.5,2598,https://www.nh-hotels.fr/hotel/nh-collection-barcelona-constanza,oui,oui,oui,2.136275,41.388855,Barcelone,Espagne,Europe
+NH Collection Barcelona Gran Hotel Calderón,255,5,4.5,1212,https://www.nh-hotels.fr/hotel/nh-collection-barcelona-gran-hotel-calderon,oui,oui,oui,2.16604,41.3893025,Barcelone,Espagne,Europe
+NH Collection Barcelona Pódium,140,4,4.5,1126,https://www.nh-hotels.fr/hotel/nh-collection-barcelona-podium,oui,oui,oui,2.177894,41.391548,Barcelone,Espagne,Europe
+NH Porta Barcelona,99,3,4.0,616,https://www.nh-hotels.fr/hotel/nh-porta-barcelona,non,oui,oui,2.07912,41.377195,Barcelone,Espagne,Europe
+NH Sant Boi,124,3,4.0,567,https://www.nh-hotels.fr/hotel/nh-sant-boi,non,non,non,2.032084,41.324474,Barcelone,Espagne,Europe
+NH Sants Barcelona,203,4,4.0,1798,https://www.nh-hotels.fr/hotel/nh-sants-barcelona,oui,oui,oui,2.137730,41.384529,Barcelone,Espagne,Europe
+NH Bilbao Deusto,71,3,4.0,336,https://www.nh-hotels.fr/hotel/nh-bilbao-deusto,non,oui,oui,-2.942265,43.270527,Bilbao,Espagne,Europe
+NH Collection Villa de Bilbao,142,4,4.5,2693,https://www.nh-hotels.fr/hotel/nh-collection-villa-de-bilbao,oui,oui,oui,-2.944575,43.264975,Bilbao,Espagne,Europe
+NH La Avanzada,120,4,3.5,561,https://www.nh-hotels.fr/hotel/nh-la-avanzada,non,non,non,-2.996564,43.331047,Bilbao,Espagne,Europe
+NH Collection Palacio de Burgos,110,4,4.5,2252,https://www.nh-hotels.fr/hotel/nh-collection-palacio-de-burgos,non,non,non,-3.703846 ,42.338592,Burgos,Espagne,Europe
+NH Collection Cáceres Palacio de Oquendo,86,4,4.5,2042,https://www.nh-hotels.fr/hotel/nh-collection-caceres-palacio-de-oquendo,non,oui,oui,-6.372859 ,39.473575,Cáceres,Espagne,Europe
+NH Campo Cartagena,100,3,4.0,801,https://www.nh-hotels.fr/hotel/nh-campo-cartagena,non,non,non,-0.976506,37.612693,Carthagène,Espagne,Europe
+NH Cartagena,100,4,4.0,1307,https://www.nh-hotels.fr/hotel/nh-cartagena,non,non,non,-0.986165657533184,37.598859494032,Carthagène,Espagne,Europe
+NH Castellón Mindoro,102,4,4.0,768,https://www.nh-hotels.fr/hotel/nh-castellon-mindoro,non,non,non,-0.03835,39.98304,Castellon,Espagne,Europe
+NH Castellón Turcosa,70,3,4.5,531,https://www.nh-hotels.fr/hotel/nh-castellon-turcosa,non,non,non,0.013465158493488113,39.97137692865475,Castellon,Espagne,Europe
+NH Ciudad Real,89,4,4.0,505,https://www.nh-hotels.fr/hotel/nh-ciudad-real,non,non,non,-3.931861,38.982414,Ciudad Real,Espagne,Europe
+NH Collection Amistad Córdoba,108,4,4.5,3459,https://www.nh-hotels.fr/hotel/nh-collection-amistad-cordoba,oui,oui,non,-4.78261,37.8794,Cordoue,Espagne,Europe
+NH Córdoba Califa,65,3,4.0,1229,https://www.nh-hotels.fr/hotel/nh-cordoba-califa,non,non,non,-4.78441,37.8827,Cordoue,Espagne,Europe
+NH Ciudad de Cuenca,74,4,4.0,1224,https://www.nh-hotels.fr/hotel/nh-ciudad-de-cuenca,non,non,non,-2.13236606241435,40.062382369156,Cuenca,Espagne,Europe
+NH Gijón,70,4,4.0,959,https://www.nh-hotels.fr/hotel/nh-gijon,non,oui,oui,-5.643118,43.540452,Gijon,Espagne,Europe
+NH Collection Granada Victoria,70,4,4.5,2587,https://www.nh-hotels.fr/hotel/nh-collection-granada-victoria,oui,oui,oui,-3.599839,37.173390,Grenade,Espagne,Europe
+NH Luz Huelva,106,4,3.5,746,https://www.nh-hotels.fr/hotel/nh-luz-huelva,non,non,non,-6.943793,37.254438,Huelva,Espagne,Europe
+NH Avenida Jerez,95,4,4.0,674,https://www.nh-hotels.fr/hotel/nh-avenida-jerez,non,non,non,-6.133118,36.691771,Jerez de la Frontera,Espagne,Europe
+NH Collection A Coruña Finisterre,92,5,4.5,1356,https://www.nh-hotels.fr/hotel/nh-collection-a-coruna-finisterre,non,non,non,-8.392943,43.369018,La Corogne,Espagne,Europe
+NH Imperial Playa,162,4,4.0,985,https://www.nh-hotels.fr/hotel/nh-imperial-playa,non,non,non,-15.430761,28.148424,Las Palmas de Gran Canaria,Espagne,Europe
+NH Las Palmas Playa Las Canteras,67,3,4.0,600,https://www.nh-hotels.fr/hotel/nh-las-palmas-playa-las-canteras,non,non,non,-15.430695,28.149008,Las Palmas de Gran Canaria,Espagne,Europe
+NH Collection León Plaza Mayor,51,4,4.5,1288,https://www.nh-hotels.fr/hotel/nh-collection-leon-plaza-mayor,non,oui,oui,-5.56597 ,42.597434,Leon,Espagne,Europe
+NH Lleida Pirineos,92,4,4.0,612,https://www.nh-hotels.fr/hotel/nh-lleida-pirineos,non,non,non,0.61339,41.61675,Lleida,Espagne,Europe
+NH Logroño,110,3,4.0,981,https://www.nh-hotels.fr/hotel/nh-logrono,non,non,non,-2.4655,42.45882,Logroño,Espagne,Europe
+NH Logroño Herencia Rioja,83,4,4.0,1093,https://www.nh-hotels.fr/hotel/nh-logrono-herencia-rioja,non,non,non,-2.45248,42.4658,Logroño,Espagne,Europe
+NH Alcorcón,102,4,4.0,561,https://www.nh-hotels.fr/hotel/nh-alcorcon,non,non,non,-3.846308,40.350882,Madrid,Espagne,Europe
+NH Collection Madrid Abascal,183,4,4.5,1768,https://www.nh-hotels.fr/hotel/nh-collection-madrid-abascal,oui,oui,oui,-3.695182,40.438314,Madrid,Espagne,Europe
+NH Collection Madrid Colón,146,4,4.5,1008,https://www.nh-hotels.fr/hotel/nh-collection-madrid-colon,oui,oui,non,-3.689070,40.426076,Madrid,Espagne,Europe
+NH Collection Madrid Eurobuilding,412,4,4.5,2555,https://www.nh-hotels.fr/hotel/nh-collection-madrid-eurobuilding,oui,oui,oui,-3.68558,40.45873,Madrid,Espagne,Europe
+NH Collection Madrid Gran Vía,94,4,4.5,344,https://www.nh-hotels.fr/hotel/nh-collection-madrid-gran-via,non,non,non,-3.701117,40.419880,Madrid,Espagne,Europe
+NH Collection Madrid Palacio de Tepa,83,5,4.5,1468,https://www.nh-hotels.fr/hotel/nh-collection-madrid-palacio-de-tepa,oui,oui,non,-3.701617,40.413835,Madrid,Espagne,Europe
+NH Collection Madrid Paseo del Prado,113,5,4.5,1870,https://www.nh-hotels.fr/hotel/nh-collection-madrid-paseo-del-prado,oui,oui,non,-3.694548,40.414904,Madrid,Espagne,Europe
+NH Collection Madrid Suecia,123,5,4.5,886,https://www.nh-hotels.fr/hotel/nh-collection-madrid-suecia,oui,oui,non,-3.6984705,40.4178139,Madrid,Espagne,Europe
+NH Leganés,78,3,3.5,510,https://www.nh-hotels.fr/hotel/nh-leganes,non,non,non,-3.746084,40.327872,Madrid,Espagne,Europe
+NH Madrid Alonso Martínez,101,3,4.5,1222,https://www.nh-hotels.fr/hotel/nh-madrid-alonso-martinez,non,oui,oui,-3.696126,40.428699,Madrid,Espagne,Europe
+NH Madrid Atocha,68,3,4.0,755,https://www.nh-hotels.fr/hotel/nh-madrid-atocha,non,non,non,-3.689457,40.407690,Madrid,Espagne,Europe
+NH Madrid Balboa,111,4,4.0,190,https://www.nh-hotels.fr/hotel/nh-madrid-balboa,non,non,non,-3.681832,40.435890,Madrid,Espagne,Europe
+NH Madrid Barajas Airport,173,3,4.0,559,https://www.nh-hotels.fr/hotel/nh-madrid-barajas-airport,non,non,non,-3.594617,40.451123,Madrid,Espagne,Europe
+NH Madrid Chamberí,54,3,4.0,549,https://www.nh-hotels.fr/hotel/nh-madrid-chamberi,non,non,non,-3.698270,40.439586,Madrid,Espagne,Europe
+NH Madrid Lagasca,100,4,4.0,735,https://www.nh-hotels.fr/hotel/nh-madrid-lagasca,non,non,non,-3.685109,40.427538,Madrid,Espagne,Europe
+NH Madrid Las Tablas,149,4,4.0,954,https://www.nh-hotels.fr/hotel/nh-madrid-las-tablas,non,non,non,-3.664563,40.498238,Madrid,Espagne,Europe
+NH Madrid Nacional,206,4,4.0,1179,https://www.nh-hotels.fr/hotel/nh-madrid-nacional,oui,oui,non,-3.692674,40.409962,Madrid,Espagne,Europe
+NH Madrid Paseo de la Habana,155,4,3.5,959,https://www.nh-hotels.fr/hotel/nh-madrid-paseo-de-la-habana,non,non,non,-3.681824,40.455815,Madrid,Espagne,Europe
+NH Madrid Príncipe de Vergara,155,4,4.5,1760,https://www.nh-hotels.fr/hotel/nh-madrid-principe-de-vergara,non,non,non,-3.679070,40.436659,Madrid,Espagne,Europe
+NH Madrid Ribera del Manzanares,224,4,4.5,1662,https://www.nh-hotels.fr/hotel/nh-madrid-ribera-del-manzanares,oui,oui,oui,-3.721826,40.406340,Madrid,Espagne,Europe
+NH Madrid Sur,62,3,4.0,492,https://www.nh-hotels.fr/hotel/nh-madrid-sur,non,non,non,-3.670035,40.398902,Madrid,Espagne,Europe
+NH Madrid Ventas,199,4,4.5,1263,https://www.nh-hotels.fr/hotel/nh-madrid-ventas,oui,oui,non,-3.663996,40.435455,Madrid,Espagne,Europe
+NH Madrid Zurbano,257,4,4.0,1027,https://www.nh-hotels.fr/hotel/nh-madrid-zurbano,oui,oui,oui,-3.692878,40.439051,Madrid,Espagne,Europe
+NH Pozuelo Ciudad de la Imagen,76,3,4.0,502,https://www.nh-hotels.fr/hotel/nh-pozuelo-ciudad-de-la-imagen,non,non,non,-3.788100,40.397960,Madrid,Espagne,Europe
+NH Villa de Coslada,78,3,3.5,251,https://www.nh-hotels.fr/hotel/nh-villa-de-coslada,non,non,non,-3.560627,40.427935,Madrid,Espagne,Europe
+NH Málaga,245,4,4.0,1728,https://www.nh-hotels.fr/hotel/nh-malaga,non,non,non,-4.426307,36.718463,Malaga,Espagne,Europe
+Anantara Villa Padierna Palace Benahavís Marbella Resort,132,5,4.5,1005,https://www.nh-hotels.fr/hotel/anantara-villa-padierna-palace-benahavis-marbella-resort,non,non,non,-5.0534293,36.475721,Marbella,Espagne,Europe
+NH Marbella,163,4,4.0,1938,https://www.nh-hotels.fr/hotel/nh-marbella,non,non,non,-4.908249,36.510843,Marbella,Espagne,Europe
+NH San Pedro de Alcántara,60,3,4.0,749,https://www.nh-hotels.fr/hotel/nh-san-pedro-de-alcantara,non,non,non,-4.989445,36.483796,Marbella,Espagne,Europe
+NH Amistad Murcia,144,4,4.0,1133,https://www.nh-hotels.fr/hotel/nh-amistad-murcia,non,non,non,-1.13484,37.98937,Murcie,Espagne,Europe
+NH Ourense,41,4,4.5,796,https://www.nh-hotels.fr/hotel/nh-ourense,non,non,non,-7.860176,42.342682,Ourense,Espagne,Europe
+NH Oviedo Principado,89,4,4.0,1125,https://www.nh-hotels.fr/hotel/nh-oviedo-principado,non,non,non,-5.846797,43.362108,Oviedo,Espagne,Europe
+NH Pamplona Iruña Park,213,4,4.5,866,https://www.nh-hotels.fr/hotel/nh-pamplona-iruna-park,non,oui,oui,-1.663592,42.811774,Pampelune,Espagne,Europe
+NH Ciutat de Reus,84,4,4.0,431,https://www.nh-hotels.fr/hotel/nh-ciutat-de-reus,non,oui,oui,1.1140282 ,41.1614564,Reus,Espagne,Europe
+NH Collection Santiago de Compostela,150,5,4.5,2025,https://www.nh-hotels.fr/hotel/nh-collection-santiago-de-compostela,non,non,non,-8.54395,42.88954,Saint Jacques de Compostelle,Espagne,Europe
+NH Collection San Sebastián Aránzazu,180,4,4.5,2039,https://www.nh-hotels.fr/hotel/nh-collection-san-sebastian-aranzazu,oui,oui,oui,-2.007086,43.312891,Saint Sébastien,Espagne,Europe
+NH Collection Salamanca Palacio de Castellanos,62,4,4.5,245,https://www.nh-hotels.fr/hotel/nh-collection-salamanca-palacio-de-castellanos,non,non,non,-5.66427,40.961,Salamanque,Espagne,Europe
+NH Salamanca Puerta de la Catedral,37,4,4.5,1315,https://www.nh-hotels.fr/hotel/nh-salamanca-puerta-de-la-catedral,non,non,non,-5.666891,40.960588,Salamanque,Espagne,Europe
+NH Tenerife,64,3,4.0,777,https://www.nh-hotels.fr/hotel/nh-tenerife,non,non,non,-16.248568,28.466331,Santa Cruz de Tenerife,Espagne,Europe
+NH Ciudad de Santander,62,3,4.0,510,https://www.nh-hotels.fr/hotel/nh-ciudad-de-santander,non,oui,oui,-3.798762,43.465451,Santander,Espagne,Europe
+NH Ciudad de Zaragoza,124,4,4.5,447,https://www.nh-hotels.fr/hotel/nh-ciudad-de-zaragoza,non,non,non,-0.881978,41.657755,Saragosse,Espagne,Europe
+NH Collection Gran Hotel de Zaragoza,133,4,4.5,1495,https://www.nh-hotels.fr/hotel/nh-collection-gran-hotel-de-zaragoza,oui,oui,oui,-0.88147,41.649154,Saragosse,Espagne,Europe
+NH Sport,64,3,3.5,532,https://www.nh-hotels.fr/hotel/nh-sport,non,non,non,-0.895415,41.649838,Saragosse,Espagne,Europe
+NH Collection Sevilla,252,4,4.5,2609,https://www.nh-hotels.fr/hotel/nh-collection-sevilla,oui,oui,oui,-5.976262,37.374932,Séville,Espagne,Europe
+NH Sevilla Plaza de Armas,262,4,4.0,3315,https://www.nh-hotels.fr/hotel/nh-sevilla-plaza-de-armas,oui,oui,non,-6.00229,37.392391,Séville,Espagne,Europe
+NH Ciudad de Valencia,149,3,4.0,1354,https://www.nh-hotels.fr/hotel/nh-ciudad-de-valencia,non,non,non,-0.3432414,39.4631124,Valence,Espagne,Europe
+NH Collection Valencia Colón,47,4,4.5,148,https://www.nh-hotels.fr/hotel/nh-collection-valencia-colon,non,non,non,-0.3746369,39.4684459,Valence,Espagne,Europe
+NH Valencia Center,192,4,4.0,2060,https://www.nh-hotels.fr/hotel/nh-valencia-center,non,non,non,-0.387418,39.481173,Valence,Espagne,Europe
+NH Valencia Las Artes,174,4,4.0,1726,https://www.nh-hotels.fr/hotel/nh-valencia-las-artes,non,non,non,-0.35727,39.455795,Valence,Espagne,Europe
+NH Valencia Las Ciencias,121,3,3.5,1160,https://www.nh-hotels.fr/hotel/nh-valencia-las-ciencias,non,non,non,-0.357571,39.455414,Valence,Espagne,Europe
+NH Ciudad de Valladolid,80,4,4.0,647,https://www.nh-hotels.fr/hotel/nh-ciudad-de-valladolid,non,non,non,-4.73691 ,41.657074,Valladolid,Espagne,Europe
+NH Valladolid Bálago,120,4,4.0,737,https://www.nh-hotels.fr/hotel/nh-valladolid-balago,non,non,non,-4.740815,41.657442,Valladolid,Espagne,Europe
+NH Collection Vigo,108,4,4.5,1353,https://www.nh-hotels.fr/hotel/nh-collection-vigo,non,non,non,-8.71842,42.23728,Vigo,Espagne,Europe
+NH Canciller Ayala Vitoria,173,4,4.0,2123,https://www.nh-hotels.fr/hotel/nh-canciller-ayala-vitoria,non,non,non,-2.676694,42.843374,Vitoria,Espagne,Europe
+NH Zamora Palacio del Duero,49,4,4.0,835,https://www.nh-hotels.fr/hotel/nh-zamora-palacio-del-duero,non,non,non,-5.74415,41.50127,Zamora,Espagne,Europe
+NH Lyon Airport,245,4,4.0,1506,https://www.nh-hotels.fr/hotel/nh-lyon-airport,non,oui,oui,5.0783341,45.7191651,Lyon,France,Europe
+NH Collection Marseille,176,4,4.5,467,https://www.nh-hotels.fr/hotel/nh-collection-marseille,non,non,non,5.3697413,43.30212,Marseille,France,Europe
+nhow Marseille,150,4,,,https://www.nh-hotels.fr/hotel/nhow-marseille,non,non,non,5.368500,43.268758,Marseille,France,Europe
+NH Nice,152,4,4.0,1527,https://www.nh-hotels.fr/hotel/nh-nice,non,oui,oui,7.282784,43.707749,Nice,France,Europe
+NH Toulouse Airport,148,4,4.5,144,https://www.nh-hotels.fr/hotel/nh-toulouse-airport,non,non,non,1.3741409,43.630165,Toulouse,France,Europe
+Anantara New York Palace Budapest Hotel,185,5,4.5,4320,https://www.nh-hotels.fr/hotel/anantara-new-york-palace-budapest-hotel,non,non,non,19.070432,47.498532,Budapest,Hongrie,Europe
+NH Budapest City,160,4,4.0,2015,https://www.nh-hotels.fr/hotel/nh-budapest-city,non,non,non,19.0519666671752,47.5128964439,Budapest,Hongrie,Europe
+NH Collection Budapest City Center,138,5,4.0,944,https://www.nh-hotels.fr/hotel/nh-collection-budapest-city-center,non,non,non,19.072108,47.498401,Budapest,Hongrie,Europe
+The Marker Hotel,187,5,4.5,4639,https://www.nh-hotels.fr/hotel/the-marker-hotel,non,non,non,-6.239048,53.344406,Dublin,Irlande,Europe
+NH Ancona,89,4,3.5,1314,https://www.nh-hotels.fr/hotel/nh-ancona,non,non,non,13.5066,43.615915,Ancône,Italie,Europe
+NH Bergamo,88,4,4.0,1260,https://www.nh-hotels.fr/hotel/nh-bergamo,oui,oui,oui,9.67172384262085,45.69163473274533,Bergame,Italie,Europe
+NH Orio al Serio,118,4,4.0,1496,https://www.nh-hotels.fr/hotel/nh-orio-al-serio,oui,oui,oui,9.697875380516052,45.66393267476575,Bergame,Italie,Europe
+NH Bologna Villanova,209,4,4.0,922,https://www.nh-hotels.fr/hotel/nh-bologna-villanova,oui,oui,oui,11.418044,44.490689,Bologne,Italie,Europe
+NH Bologna de la Gare,156,4,4.0,2226,https://www.nh-hotels.fr/hotel/nh-bologna-de-la-gare,oui,oui,oui,11.344547867774963,44.50329680069119,Bologne,Italie,Europe
+NH Caltagirone Villa San Mauro,91,4,4.0,522,https://www.nh-hotels.fr/hotel/nh-caltagirone-villa-san-mauro,non,non,non,14.51308889,37.22282778,Caltagirone,Italie,Europe
+NH Catania Centro,128,4,4.0,1403,https://www.nh-hotels.fr/hotel/nh-catania-centro,oui,oui,oui,15.089018940925598,37.51372148575241,Catane,Italie,Europe
+NH Catania Parco Degli Aragonesi,124,4,4.0,1491,https://www.nh-hotels.fr/hotel/nh-catania-parco-degli-aragonesi,oui,oui,oui,15.082941055297852,37.47682493702578,Catane,Italie,Europe
+NH Collection Grand Hotel Convento di Amalfi,53,5,4.5,1447,https://www.nh-hotels.fr/hotel/nh-collection-grand-hotel-convento-di-amalfi,oui,oui,oui,14.597408,40.633203,Côte Amalfitaine,Italie,Europe
+NH Collection Firenze Palazzo Gaddi,86,4,4.0,1194,https://www.nh-hotels.fr/hotel/nh-collection-firenze-palazzo-gaddi,non,non,non,11.2514476,43.7741713,Florence,Italie,Europe
+NH Collection Firenze Porta Rossa,70,5,4.5,2604,https://www.nh-hotels.fr/hotel/nh-collection-firenze-porta-rossa,oui,oui,non,11.25198483467102,43.77011763832277,Florence,Italie,Europe
+NH Firenze,152,4,4.5,1586,https://www.nh-hotels.fr/hotel/nh-firenze,oui,oui,oui,11.237106621265411,43.77567816161452,Florence,Italie,Europe
+NH Collection Genova Marina,140,4,4.5,3150,https://www.nh-hotels.fr/hotel/nh-collection-genova-marina,oui,oui,oui,8.926445245742797,44.4110068197871,Gênes,Italie,Europe
+NH Genova Centro,141,4,4.0,940,https://www.nh-hotels.fr/hotel/nh-genova-centro,oui,oui,non,8.93811285495758,44.41085737124408,Gênes,Italie,Europe
+NH La Spezia,110,4,3.5,1485,https://www.nh-hotels.fr/hotel/nh-la-spezia,oui,oui,non,9.82776403427124,44.106641507006145,La Spezia ,Italie,Europe
+NH Lecco Pontevecchio,111,4,4.5,1545,https://www.nh-hotels.fr/hotel/nh-lecco-pontevecchio,oui,oui,oui,9.392859935760498,45.848636762319565,"Lecco, Lac de Côme",Italie,Europe
+NH Collection Milano Porta Nuova,100,4,4.5,146,https://www.nh-hotels.fr/hotel/nh-collection-milano-porta-nuova,oui,oui,oui,9.19182300567,45.481287708,Milan,Italie,Europe
+NH Collection Milano President,274,5,4.5,3307,https://www.nh-hotels.fr/hotel/nh-collection-milano-president,oui,oui,oui,9.197722,45.463112,Milan,Italie,Europe
+NH Linate,67,4,4.0,649,https://www.nh-hotels.fr/hotel/nh-linate,non,oui,oui,9.288141,45.442121,Milan,Italie,Europe
+NH Milano 2,143,4,4.0,932,https://www.nh-hotels.fr/hotel/nh-milano-2,non,oui,oui,9.267590045928955,45.50154951543162,Milan,Italie,Europe
+NH Milano 2 Residence,134,4,4.0,272,https://www.nh-hotels.fr/hotel/nh-milano-2-residence,oui,oui,non,9.266678094863891,45.50057194157226,Milan,Italie,Europe
+NH Milano Concordia,155,4,4.5,1409,https://www.nh-hotels.fr/hotel/nh-milano-concordia,oui,oui,oui,9.231074452400207,45.52404406297695,Milan,Italie,Europe
+NH Milano Congress Centre,255,4,4.5,1401,https://www.nh-hotels.fr/hotel/nh-milano-congress-centre,non,non,non,9.149292,45.40096,Milan,Italie,Europe
+NH Milano Fiera,398,4,4.0,1747,https://www.nh-hotels.fr/hotel/nh-milano-fiera,oui,oui,oui,9.07608,45.517399,Milan,Italie,Europe
+NH Milano Machiavelli,103,4,4.0,1403,https://www.nh-hotels.fr/hotel/nh-milano-machiavelli,oui,non,oui,9.201807,45.47759,Milan,Italie,Europe
+NH Milano Palazzo Moscova,65,4,4.5,197,https://www.nh-hotels.fr/hotel/nh-milano-palazzo-moscova,oui,oui,non,9.189869999999928 ,45.48079,Milan,Italie,Europe
+NH Milano Touring,282,4,4.0,1722,https://www.nh-hotels.fr/hotel/nh-milano-touring,oui,oui,oui,9.196634888648986,45.47693204764046,Milan,Italie,Europe
+nhow Milano,246,4,4.5,2597,https://www.nh-hotels.fr/hotel/nhow-milano,oui,oui,oui,9.160665936520381,45.451128416729254,Milan,Italie,Europe
+NH Napoli Panorama,230,4,3.5,2911,https://www.nh-hotels.fr/hotel/nh-napoli-panorama,oui,oui,oui,14.252305,40.842441,Naples,Italie,Europe
+NH Padova,190,4,4.0,2348,https://www.nh-hotels.fr/hotel/nh-padova,oui,oui,oui,11.8918,45.4128,Padoue,Italie,Europe
+NH Palermo,157,4,3.5,1819,https://www.nh-hotels.fr/hotel/nh-palermo,oui,oui,oui,13.374996185302734,38.115304901923324,Palerme,Italie,Europe
+NH Parma,120,4,4.5,1606,https://www.nh-hotels.fr/hotel/nh-parma,oui,oui,oui,10.328571,44.810174,Parme,Italie,Europe
+NH Pisa,100,4,4.0,2459,https://www.nh-hotels.fr/hotel/nh-pisa,oui,oui,oui,10.399584174156189,43.708880922075245,Pise,Italie,Europe
+NH Ravenna,84,4,4.0,1269,https://www.nh-hotels.fr/hotel/nh-ravenna,oui,oui,oui,12.20479130744934,44.41890405714706,Ravenne,Italie,Europe
+Anantara Palazzo Naiadi Rome Hotel,238,5,4.5,3528,https://www.nh-hotels.fr/hotel/anantara-palazzo-naiadi-rome-hotel,non,non,non,12.4959643,41.9019385,Rome,Italie,Europe
+NH Collection Roma Centro,258,4,4.0,2213,https://www.nh-hotels.fr/hotel/nh-collection-roma-centro,oui,oui,oui,12.468581,41.909507,Rome,Italie,Europe
+NH Collection Roma Fori Imperiali,42,5,5.0,100,https://www.nh-hotels.fr/hotel/nh-collection-roma-fori-imperiali,non,non,non,12.484795,41.896123,Rome,Italie,Europe
+NH Collection Roma Giustiniano,161,4,4.5,2962,https://www.nh-hotels.fr/hotel/nh-collection-roma-giustiniano,oui,oui,oui,12.465692460536956,41.906930311844874,Rome,Italie,Europe
+NH Collection Roma Palazzo Cinquecento,177,5,4.5,1266,https://www.nh-hotels.fr/hotel/nh-collection-roma-palazzo-cinquecento,oui,oui,oui,12.501661199999944,41.90252309999999,Rome,Italie,Europe
+NH Collection Roma Vittorio Veneto,199,4,4.5,2656,https://www.nh-hotels.fr/hotel/nh-collection-roma-vittorio-veneto,oui,oui,oui,12.49022126197815,41.91017402593138,Rome,Italie,Europe
+NH Roma Villa Carpegna,201,4,4.0,1792,https://www.nh-hotels.fr/hotel/nh-roma-villa-carpegna,oui,oui,oui,12.43886,41.892304,Rome,Italie,Europe
+NH Savona Darsena,92,4,4.0,1533,https://www.nh-hotels.fr/hotel/nh-savona-darsena,oui,oui,oui,8.487523198127746,44.30882533205592,Savone,Italie,Europe
+NH Siena,129,4,4.0,2033,https://www.nh-hotels.fr/hotel/nh-siena,oui,oui,oui,11.327328,43.322834,Sienne,Italie,Europe
+NH Collection Taormina,63,5,4.5,1181,https://www.nh-hotels.fr/hotel/nh-collection-taormina,oui,oui,non,15.287338,37.85367,Taormine,Italie,Europe
+NH Trento,89,4,4.5,1050,https://www.nh-hotels.fr/hotel/nh-trento,oui,oui,non,11.1147475,46.0590899,Trento,Italie,Europe
+NH Trieste,173,4,4.0,2237,https://www.nh-hotels.fr/hotel/nh-trieste,oui,oui,non,13.771067261695861,45.655061820059586,Trieste,Italie,Europe
+NH Collection Torino Piazza Carlina,160,4,4.5,1761,https://www.nh-hotels.fr/hotel/nh-collection-torino-piazza-carlina,non,non,non,7.6892899,45.0656512,Turin,Italie,Europe
+NH Torino Centro,182,4,4.0,1791,https://www.nh-hotels.fr/hotel/nh-torino-centro,non,non,non,7.66528,45.067847,Turin,Italie,Europe
+NH Torino Lingotto Congress,240,4,4.5,2174,https://www.nh-hotels.fr/hotel/nh-torino-lingotto-congress,non,non,non,7.666225,45.032349,Turin,Italie,Europe
+NH Torino Santo Stefano,134,4,4.5,2204,https://www.nh-hotels.fr/hotel/nh-torino-santo-stefano,oui,oui,oui,7.6837992668151855,45.07412673883573,Turin,Italie,Europe
+NH Collection Venezia Grand Hotel Palazzo dei Dogi,64,5,4.5,2014,https://www.nh-hotels.fr/hotel/nh-collection-venezia-grand-hotel-palazzo-dei-dogi,non,non,non,12.331022,45.446729,Venise,Italie,Europe
+NH Collection Venezia Murano Villa,104,4,,,https://www.nh-hotels.fr/hotel/nh-collection-venezia-murano-villa,non,non,non,12.3569398,45.4538264,Venise,Italie,Europe
+NH Venezia Laguna Palace,376,4,4.0,3197,https://www.nh-hotels.fr/hotel/nh-venezia-laguna-palace,oui,oui,oui,12.249197959899902,45.48148329147609,Venise,Italie,Europe
+NH Venezia Rio Novo,144,4,4.5,559,https://www.nh-hotels.fr/hotel/nh-venezia-rio-novo,oui,oui,non,12.321113,45.435188,Venise,Italie,Europe
+NH Venezia Santa Lucia,100,4,4.0,1950,https://www.nh-hotels.fr/hotel/nh-venezia-santa-lucia,non,non,non,12.32263043974224,45.44167359753979,Venise,Italie,Europe
+NH Collection Palazzo Verona,70,5,,,https://www.nh-hotels.fr/hotel/nh-collection-palazzo-verona,non,non,non,10.9936514,45.4424905,Vérone,Italie,Europe
+NH Bratislava Gate One,117,4,4.5,940,https://www.nh-hotels.fr/hotel/nh-bratislava-gate-one,non,non,non,17.177370,48.166278,Bratislava,Slovaquie,Europe
+NH Luxembourg,149,4,3.5,927,https://www.nh-hotels.fr/hotel/nh-luxembourg,non,oui,oui,6.21843,49.637051,Luxembourg,Luxembourg,Europe
+NH Amersfoort,114,4,4.5,1128,https://www.nh-hotels.fr/hotel/nh-amersfoort,non,oui,oui,5.379722714424133,52.154306891867115,Amersfoort,Pays-Bas,Europe
+NH Amsterdam Caransa,66,4,4.0,1209,https://www.nh-hotels.fr/hotel/nh-amsterdam-caransa,non,oui,oui,4.8973,52.36625,Amsterdam,Pays-Bas,Europe
+NH Amsterdam Centre,237,4,4.0,3357,https://www.nh-hotels.fr/hotel/nh-amsterdam-centre,non,oui,oui,4.879558,52.363156,Amsterdam,Pays-Bas,Europe
+NH Amsterdam Museum Quarter,163,4,4.0,2391,https://www.nh-hotels.fr/hotel/nh-amsterdam-museum-quarter,non,oui,oui,4.88632,52.35571,Amsterdam,Pays-Bas,Europe
+NH Amsterdam Noord,290,4,4.0,934,https://www.nh-hotels.fr/hotel/nh-amsterdam-noord,non,oui,oui,4.91063,52.39189,Amsterdam,Pays-Bas,Europe
+NH Amsterdam Schiller,94,4,4.0,1973,https://www.nh-hotels.fr/hotel/nh-amsterdam-schiller,non,oui,oui,4.896989,52.3658486,Amsterdam,Pays-Bas,Europe
+NH Amsterdam Schiphol Airport,419,4,4.0,2659,https://www.nh-hotels.fr/hotel/nh-amsterdam-schiphol-airport,non,oui,oui,4.72404,52.28881,Amsterdam,Pays-Bas,Europe
+NH Amsterdam Zuid,213,4,4.0,1579,https://www.nh-hotels.fr/hotel/nh-amsterdam-zuid,non,oui,oui,4.879885,52.326687,Amsterdam,Pays-Bas,Europe
+NH City Centre Amsterdam,213,4,4.0,2050,https://www.nh-hotels.fr/hotel/nh-city-centre-amsterdam,non,oui,non,4.88892,52.36972,Amsterdam,Pays-Bas,Europe
+NH Collection Amsterdam Barbizon Palace,274,5,4.5,1780,https://www.nh-hotels.fr/hotel/nh-collection-amsterdam-barbizon-palace,non,oui,oui,4.9004774,52.3765471,Amsterdam,Pays-Bas,Europe
+NH Collection Amsterdam Doelen,81,5,4.5,995,https://www.nh-hotels.fr/hotel/nh-collection-amsterdam-doelen,non,oui,non,4.89586,52.36836,Amsterdam,Pays-Bas,Europe
+NH Collection Amsterdam Flower Market,233,4,4.0,195,https://www.nh-hotels.fr/hotel/nh-collection-amsterdam-flower-market,non,oui,oui,4.893101,52.366261,Amsterdam,Pays-Bas,Europe
+NH Collection Amsterdam Grand Hotel Krasnapolsky,451,5,4.5,3841,https://www.nh-hotels.fr/hotel/nh-collection-amsterdam-grand-hotel-krasnapolsky,non,oui,oui,4.89409,52.37267,Amsterdam,Pays-Bas,Europe
+nhow Amsterdam RAI,650,4,4.5,54,https://www.nh-hotels.fr/hotel/nhow-amsterdam-rai,non,non,non,4.891107,52.338489,Amsterdam,Pays-Bas,Europe
+NH Arnhem Rijnhotel,68,4,4.0,932,https://www.nh-hotels.fr/hotel/nh-arnhem-rijnhotel,non,oui,oui,5.884622,51.983662,Arnhem,Pays-Bas,Europe
+NH Bussum Jan Tabak,84,4,4.5,301,https://www.nh-hotels.fr/hotel/nh-bussum-jan-tabak,non,oui,oui,5.17945,52.28297,Bussum,Pays-Bas,Europe
+NH Capelle,105,4,4.0,700,https://www.nh-hotels.fr/hotel/nh-capelle,non,oui,oui,4.56252,51.95779,Capelle aan den IJssel,Pays-Bas,Europe
+NH Collection Eindhoven Centre,132,5,4.5,472,https://www.nh-hotels.fr/hotel/nh-collection-eindhoven-centre,non,oui,non,5.480375,51.440553,Eindhoven,Pays-Bas,Europe
+NH Eindhoven Conference Centre Koningshof,509,4,4.0,1317,https://www.nh-hotels.fr/hotel/nh-eindhoven-conference-centre-koningshof,non,oui,oui,5.38622,51.39309,Eindhoven,Pays-Bas,Europe
+NH Groningen,127,4,4.0,1032,https://www.nh-hotels.fr/hotel/nh-groningen,non,oui,oui,6.57613,53.22047,Groningue,Pays-Bas,Europe
+NH Groningen Hotel de Ville,66,4,4.0,780,https://www.nh-hotels.fr/hotel/nh-groningen-hotel-de-ville,non,oui,oui,6.563801,53.22002,Groningue,Pays-Bas,Europe
+NH Atlantic Den Haag,152,4,4.0,1740,https://www.nh-hotels.fr/hotel/nh-atlantic-den-haag,non,oui,oui,4.221604,52.069733,La Haye,Pays-Bas,Europe
+NH Den Haag,205,4,4.0,1719,https://www.nh-hotels.fr/hotel/nh-den-haag,non,oui,oui,4.33801,52.07892,La Haye,Pays-Bas,Europe
+NH Maastricht,275,4,4.0,1748,https://www.nh-hotels.fr/hotel/nh-maastricht,non,oui,non,5.713914799999998,50.8378081,Maastricht,Pays-Bas,Europe
+NH Naarden,128,4,3.5,567,https://www.nh-hotels.fr/hotel/nh-naarden,non,oui,oui,5.141868,52.309268,Naarden,Pays-Bas,Europe
+NH Noordwijk Conference Centre Leeuwenhorst,513,4,4.0,2440,https://www.nh-hotels.fr/hotel/nh-noordwijk-conference-centre-leeuwenhorst,non,oui,oui,4.471998,52.252201,Noordwijkerhout,Pays-Bas,Europe
+NH Veluwe Sparrenhorst,117,4,4.0,1179,https://www.nh-hotels.fr/hotel/nh-veluwe-sparrenhorst,non,oui,oui,5.799903,52.378812,Nunspeet,Pays-Bas,Europe
+NH Atlanta Rotterdam,215,4,3.5,1539,https://www.nh-hotels.fr/hotel/nh-atlanta-rotterdam,non,oui,oui,4.4793,51.92124,Rotterdam,Pays-Bas,Europe
+nhow Rotterdam,275,4,4.5,2389,https://www.nh-hotels.fr/hotel/nhow-rotterdam,non,oui,oui,4.488659,51.907017,Rotterdam,Pays-Bas,Europe
+NH Centre Utrecht,47,3,4.0,733,https://www.nh-hotels.fr/hotel/nh-centre-utrecht,non,oui,oui,5.12205,52.09311,Utrecht,Pays-Bas,Europe
+NH Utrecht,276,4,4.0,1207,https://www.nh-hotels.fr/hotel/nh-utrecht,non,oui,oui,5.105340,52.090190,Utrecht,Pays-Bas,Europe
+NH Waalwijk,120,4,4.0,903,https://www.nh-hotels.fr/hotel/nh-waalwijk,non,oui,oui,5.057233,51.666045,Waalwijk,Pays-Bas,Europe
+NH Zandvoort,216,4,4.0,1707,https://www.nh-hotels.fr/hotel/nh-zandvoort,non,oui,oui,4.533253,52.384840,Zandvoort,Pays-Bas,Europe
+NH Zoetermeer,104,4,4.0,581,https://www.nh-hotels.fr/hotel/nh-zoetermeer,non,oui,oui,4.47708,52.04564,Zoetermeer,Pays-Bas,Europe
+NH Poznan,93,4,4.0,516,https://www.nh-hotels.fr/hotel/nh-poznan,non,non,non,16.920811,52.406836,Poznan,Pologne,Europe
+Anantara Vilamoura Algarve Resort,243,5,4.5,3992,https://www.nh-hotels.fr/hotel/anantara-vilamoura-algarve-resort,non,non,non,-8.1421119,37.1032338,Algarve,Portugal,Europe
+The Residences at Victoria Algarve,97,5,4.5,851,https://www.nh-hotels.fr/hotel/the-residences-at-victoria-algarve,non,non,non,-8.1411991,37.1031707,Algarve,Portugal,Europe
+Tivoli Carvoeiro Algarve Resort,248,5,4.0,4503,https://www.nh-hotels.fr/hotel/tivoli-carvoeiro-algarve-resort,oui,oui,non,-8.4709998,37.107142,Algarve,Portugal,Europe
+Tivoli Lagos Algarve Resort,296,4,4.0,3941,https://www.nh-hotels.fr/hotel/tivoli-lagos-algarve-resort,non,non,non,-8.6783825,37.1057558,Algarve,Portugal,Europe
+Tivoli Marina Portimão Algarve Resort,196,4,4.5,2847,https://www.nh-hotels.fr/hotel/tivoli-marina-portimao-algarve-resort,non,non,non,-8.528201,37.118784,Algarve,Portugal,Europe
+Tivoli Marina Vilamoura Algarve Resort,383,5,4.5,6409,https://www.nh-hotels.fr/hotel/tivoli-marina-vilamoura-algarve-resort,non,non,non,-8.121821,37.074285,Algarve,Portugal,Europe
+Tivoli Coimbra,100,4,4.0,1665,https://www.nh-hotels.fr/hotel/tivoli-coimbra,non,non,non,-8.433213,40.2142216,Coimbra,Portugal,Europe
+Avani Avenida Liberdade Lisbon,119,4,4.5,499,https://www.nh-hotels.fr/hotel/avani-avenida-liberdade-lisbon,non,non,non,-9.147377,38.720390,Lisbonne,Portugal,Europe
+NH Collection Lisboa Liberdade,83,4,4.5,829,https://www.nh-hotels.fr/hotel/nh-collection-lisboa-liberdade,non,non,non,-9.14474,38.720311,Lisbonne,Portugal,Europe
+NH Lisboa Campo Grande,88,4,4.0,1173,https://www.nh-hotels.fr/hotel/nh-lisboa-campo-grande,non,non,non,-9.14942,38.74864,Lisbonne,Portugal,Europe
+Tivoli Avenida Liberdade Lisboa,285,5,4.5,918,https://www.nh-hotels.fr/hotel/tivoli-avenida-liberdade-lisboa,non,non,non,-9.147017,38.721018,Lisbonne,Portugal,Europe
+Tivoli Oriente Lisboa,279,4,4.0,4584,https://www.nh-hotels.fr/hotel/tivoli-oriente-lisboa,oui,oui,non,-9.1003908,38.7667034,Lisbonne,Portugal,Europe
+NH Collection Porto Batalha,107,4,4.5,2276,https://www.nh-hotels.fr/hotel/nh-collection-porto-batalha,non,non,non,-8.6070039,41.1453972,Porto,Portugal,Europe
+NH Porto Jardim,79,4,4.5,143,https://www.nh-hotels.fr/hotel/nh-porto-jardim,non,non,non,-8.6050136,41.1434066,Porto,Portugal,Europe
+Tivoli Palácio de Seteais,30,5,4.5,1383,https://www.nh-hotels.fr/hotel/tivoli-palacio-de-seteais,non,non,non,-9.4004931,38.7961048,Sintra,Portugal,Europe
+Tivoli Sintra,77,4,4.5,1025,https://www.nh-hotels.fr/hotel/tivoli-sintra,non,non,non,-9.391609,38.797498,Sintra,Portugal,Europe
+NH Collection Olomouc Congress,137,4,4.5,671,https://www.nh-hotels.fr/hotel/nh-collection-olomouc-congress,non,non,non,17.246786,49.601206,Olomouc,République Tchèque,Europe
+NH Collection Prague,136,4,4.5,106,https://www.nh-hotels.fr/hotel/nh-collection-prague,non,non,non,14.393941,50.0698308,Prague,République Tchèque,Europe
+NH Collection Prague Carlo IV,152,5,4.5,3449,https://www.nh-hotels.fr/hotel/nh-collection-prague-carlo-iv,non,non,non,14.433888,50.086599,Prague,République Tchèque,Europe
+NH Prague City,408,4,4.0,616,https://www.nh-hotels.fr/hotel/nh-prague-city,non,non,non,14.3950327,50.0712871,Prague,République Tchèque,Europe
+NH Bucharest,76,4,4.5,1013,https://www.nh-hotels.fr/hotel/nh-bucharest,non,non,non,26.111866,44.429341,Bucarest,Roumanie,Europe
+NH Timisoara,83,4,4.0,426,https://www.nh-hotels.fr/hotel/nh-timisoara,non,non,non,21.242057,45.754587,Timisoara,Roumanie,Europe
+NH London Kensington,121,4,4.0,2026,https://www.nh-hotels.fr/hotel/nh-london-kensington,non,oui,oui,-0.19459650506423998,51.4950398698684,Londres,Royaume-Uni,Europe
+nhow London,190,4,4.0,62,https://www.nh-hotels.fr/hotel/nhow-london,non,non,non,-0.0969623,51.5288976,Londres,Royaume-Uni,Europe
+NH Geneva Airport,190,4,3.5,1327,https://www.nh-hotels.fr/hotel/nh-geneva-airport,non,oui,oui,6.085856,46.227764,Genève,Suisse,Europe
+NH Geneva City,70,4,4.0,283,https://www.nh-hotels.fr/hotel/nh-geneva-city,non,non,non,6.127585,46.211862,Genève,Suisse,Europe
+The Vyra Suites NH Collection Doha,228,5,,,https://www.nh-hotels.fr/hotel/the-vyra-suites-nh-collection-doha,non,non,non,51.5343847,25.3290827,Doha,Qatar,Médio Oriente
