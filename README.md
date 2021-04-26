@@ -55,8 +55,11 @@ La sortie « hotels.csv » sera automatiquement généré dans le répertoire 
 python extraction_ntealan.py [-w true] [-e 150]
 ```
 Des arguments optionnels peuvent être passés :
+
 -w (window) true   :   une fenêtre sera ouverte par selenium
+
 -e un_entier_entre_1_et_200 : le nombre d’entrées à extraire par dictionnaire (100 par défaut)
+
 La sortie « ntealan_entrees.csv » sera automatiquement généré dans le répertoire courant.
 
 - extraction des nombres d’entrées/requêtes pour NTeALan et LEO :
@@ -64,4 +67,5 @@ La sortie « ntealan_entrees.csv » sera automatiquement généré dans le ré
 python extraction_ntealan.py [-w true]
 ```
 -w (window) true   :   une fenêtre sera ouverte par selenium
+
 La sortie « dic_nb_entries.csv » sera automatiquement généré dans le répertoire courant.
