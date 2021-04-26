@@ -98,7 +98,7 @@ def presentation_dico():
     best_articles = {"fulfulde-français" : "addugol", "medʉmba-francais" : "bə̀ntʉ", "ŋk̀ùnàbémbé-français" : "ɓìoɓìòhla",
     "yemba-français" : "lebāt", "yangben-français" : "ɛmbɔlbɔl", "soninké-français-anglais" : "a", "ndemli-français" : "láŋlī",
     "ghomala-français" : "mbì", "bambara-français" : "àbarika", "mafa-francais" : "ngigádà", "duala-français" : "ansanɛ", "bassa-français" : "hìɓàŋ",
-    "ejagham-francais" : "eri", "feefee-français" : "béhsīē", "Eton-français" : "ìdídígá", "oku-english" : "kɛchak", "ŋgəmba-français" : "mmzáŋ"}
+    "ejagham-francais" : "eri", "feefee-français" : "mbéhsīē", "Eton-français" : "ìdídígá", "oku-english" : "kɛchak", "ŋgəmba-français" : "mmzáŋ"}
     article = dataframe_ntealan.loc[(dataframe_ntealan["dictionnaire"] == dictionnaire) & (dataframe_ntealan["full_entree"] == best_articles[dictionnaire])].iloc[0]
     st.markdown("""---""")
     presenter_article(article)

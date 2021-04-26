@@ -41,7 +41,7 @@ def ntealan_chiffres():
             fig.update_traces(textposition='inside', textinfo='percent+label')
             st.write(fig)
 
-            st.markdown("Certains dictionnaires de la plateforme présentent des traductions en français uniquement, en anglais uniquement, ou dans les deux langues. En observant le diagramme, on voit que la majorité des entrées proposent des traductions en français. Il y a cependant un nombre non négligeable de traductions en anglais (187, soit 10.8%). La plateforme présente donc des données utiles dans plusieurs langues cibles. Ces chiffres pourraient être améliorés avec des collaborations supplémentaires.")
+            st.markdown("Certains dictionnaires de la plateforme présentent des traductions en français uniquement, en anglais uniquement, ou dans les deux langues. En observant le diagramme, on voit que la majorité des entrées proposent des traductions en français. Il y a cependant un nombre non négligeable de traductions en anglais (187, soit 10.5%). La plateforme présente donc des données utiles dans plusieurs langues cibles. Ces chiffres pourraient être améliorés avec des collaborations supplémentaires.")
 
         if choix == "Nombre de traductions" :
             nb_trad_fr = dataframe_ntealan[dataframe_ntealan["nb_trads_fr"] > 0].rename(columns = {"nb_trads_fr" : "nb_trads"})
@@ -53,7 +53,7 @@ def ntealan_chiffres():
             fig.update_layout(yaxis_title_text = 'Nb de traductions')
             st.write(fig)
 
-            st.markdown("On voit que la grande majorité (la totalité dans le cas de l'anglais) des entrées proposent une seule traduction. Il y a cependant un nombre important d'entrées qui proposent jusqu'à 6 traductions pour le cas du français. Certaines entrées sont donc riches en traductions, et par conséquent en données.")
+            st.markdown("On voit que la grande majorité (la totalité dans le cas de l'anglais) des entrées proposent une seule traduction. Il y a cependant un nombre important d'entrées qui proposent jusqu'à 10 traductions pour le cas du français. Certaines entrées sont donc riches en traductions, et par conséquent en données.")
     st.text("")
 
     # conteneur 2 - Exemples :
@@ -110,7 +110,7 @@ def ntealan_chiffres():
             fig.update_layout(barmode='group', xaxis_tickangle = -45)
             st.write(fig)
 
-            st.markdown("Les informations de conjugaison sont extrêmement enrichissantes pour une entrée de dictionnaire, et apportent un degré supplémentaire d'informations. On voit que plus d'un quart des verbes (28.9%) ont des informations de conjugaison associées. Ces chiffres sont déjà très prometteurs.")
+            st.markdown("Les informations de conjugaison sont extrêmement enrichissantes pour une entrée de dictionnaire, et apportent un degré supplémentaire d'informations. On voit que plus d'un quart des verbes (28.6%) ont des informations de conjugaison associées. Ces chiffres sont déjà très prometteurs.")
 
         if choix == "Nombre de conjugaisons indiquées" :
             conjug = dataframe_ntealan[dataframe_ntealan["categorie"] == "Verbe"].copy()
