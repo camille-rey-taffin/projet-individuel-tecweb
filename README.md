@@ -48,7 +48,7 @@ Placez vous ensuite dans le répertoire scripts_extraction/ :
 ```shell
 python extraction_hotels.py
 ```
-La sortie « hotels.csv » sera automatiquement généré dans le répertoire courant.
+La sortie « hotels.csv » sera automatiquement générée dans le répertoire courant.
 
 - extraction des informations des d’entrées NTeALan :
 ```shell
@@ -60,12 +60,12 @@ Des arguments optionnels peuvent être passés :
 
 -e un_entier_entre_1_et_200 : le nombre d’entrées à extraire par dictionnaire (100 par défaut)
 
-La sortie « ntealan_entrees.csv » sera automatiquement généré dans le répertoire courant.
+La sortie « ntealan_entrees.csv » sera automatiquement générée dans le répertoire courant.
 
 - extraction des nombres d’entrées/requêtes pour NTeALan et LEO :
 ```shell
-python extraction_ntealan.py [-w true]
+python extraction_nb_entries.py [-w true]
 ```
 -w (window) true   :   une fenêtre sera ouverte par selenium
 
-La sortie « dic_nb_entries.csv » sera automatiquement généré dans le répertoire courant.
+La sortie « dic_nb_entries.csv » sera automatiquement générée dans le répertoire courant.
